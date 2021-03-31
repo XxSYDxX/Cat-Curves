@@ -5,5 +5,5 @@
 
  If you are okay with au naturale "cats" run `python main.py` inside the directory.
 
-# Requirements:
+# Requirements
  Python packages "matplotlib" & "numpy" must be installed.
